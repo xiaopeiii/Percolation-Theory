@@ -1,2 +1,2 @@
 # Percolation-Theory
-Prelims Project
+This is a project about 2D percolatoin theory finsished in Prelims.
